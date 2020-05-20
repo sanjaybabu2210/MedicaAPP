@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287088542275",
+    "firebase_url": "https://care4u-8cc15.firebaseio.com",
+    "project_id": "care4u-8cc15",
+    "storage_bucket": "care4u-8cc15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287088542275:android:03581be5c8ddd41713caf6",
+        "android_client_info": {
+          "package_name": "com.reboot.care_4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287088542275-09aqlqb203j9n3u7ea2ttls6gl7t1ebf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7oMWkX3x0D-zN5yCi_yro31hmFKiqyas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287088542275-09aqlqb203j9n3u7ea2ttls6gl7t1ebf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
